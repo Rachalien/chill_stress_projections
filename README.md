@@ -197,6 +197,11 @@ that looks plausible and is internally inconsistent.
 ---
 
 ## Contact
+Dr Rachel Taylor
 rachel.taylor@anu.edu.au
+Centre for Applied Climate Sciences, University of Southern Queensland, Toowoomba, Australia; 
+Fenner School of Environment & Society, Australian National University, Canberra, Australia
+ORC ID: 0000-0002-4260-131X
+
 <name, affiliation, ORCID, contact address>
 
